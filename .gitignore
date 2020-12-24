@@ -1,0 +1,4 @@
+.terraform/
+
+# TODO: remove below gitignore directive when state is remote or encrypted
+terraform.tfstate*
